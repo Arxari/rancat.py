@@ -1,5 +1,4 @@
 ![rancat](https://files.catbox.moe/jcq65e.png)                                        
--- -
 ## How to use
 
 - git clone this repo or download randomcat.py
