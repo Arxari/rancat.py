@@ -12,6 +12,6 @@ AUR package is in the works
 w luv, ari
 -- -
 Part of the rancat trilogy
-[rancat in python](https://github.com/Arxari/randomcat)
-[rancat in shell](https://github.com/Arxari/rancat.sh)
-[rancat in ruby](https://github.com/Arxari/rancat.rs)
+- [rancat in python](https://github.com/Arxari/randomcat)
+- [rancat in shell](https://github.com/Arxari/rancat.sh)
+- [rancat in ruby](https://github.com/Arxari/rancat.rs)
