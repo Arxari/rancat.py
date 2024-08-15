@@ -7,11 +7,10 @@
 - run the file with python3 your/file/location/randomcat.py
 - PRO TIP: Create an alias such as alias rancat='python3 your/file/location/randomcat.py to run the script much more easily
 
-AUR package is in the works
+AUR package is in the works (except not really)
 
 w luv, ari
 -- -
-Part of the rancat trilogy
+Part of the rancat ~~trilogy~~ duology
 - [rancat in python](https://github.com/Arxari/randomcat)
 - [rancat in shell](https://github.com/Arxari/rancat.sh)
-- [rancat in ruby](https://github.com/Arxari/rancat.rs)
