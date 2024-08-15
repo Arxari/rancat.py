@@ -1,5 +1,5 @@
 ![rancat](https://files.catbox.moe/jcq65e.png)                                        
-## How to use
+### How to use
 
 - git clone this repo or download randomcat.py
 - open ranodomcat.py in a text/code editor of your choice
